@@ -1,4 +1,3 @@
-/*
 ===========
 RoboSphere
 ===========
@@ -11,4 +10,3 @@ This project was part of a 3rd-Year curriculum
 - Gyroscope Sensor to detect angular velocity, H-Bridge to control the spinning
 - Unipolar Stepper Motors to drive the sphere forward, left, right with Adafruit Motor Shield
 - Temperature Sensor to detect and transmit to a Liquid Crystal Display
-*/
