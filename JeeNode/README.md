@@ -1,9 +1,7 @@
-===========
+
 RoboSphere
-===========
-
+=
 This project was part of a 3rd-Year curriculum
-
 - A ball-shaped sphere to immitate a robotic pet, moving in response to nearby external motion
 - Microcontrollers Arduino Uno and JeeNode TX & RX 
 - PIR Sensors to detect motion, Ultrasonic Sensor to help stop at certain or long distances
