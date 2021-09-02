@@ -1,7 +1,7 @@
 /*
 	Test code to check following hardware components-
-	i) Temperature Sensor TMP36
-	ii) Liquid Crystal I2C Display HD44780
+	i) Temperature Sensor, TMP36
+	ii) Liquid Crystal I2C Display, HD44780
 */
 
 
@@ -20,7 +20,7 @@ Serial.print(temperatureC);
 Serial.println(" degrees C");
 
 // LCD Setup Code
-// LCD -- I2C 2x16 HD44780
+// LCD --> I2C 2x16
 
 #include <LiquidCrystal_I2C.h>                      // Library required for the I2C LCD functions
 
